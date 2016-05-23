@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on MMartinov</title>
+    <link>https://martinov.github.io/page/</link>
+    <description>Recent content in Pages on MMartinov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <managingEditor>me@mmartinov.com (Martin Martinov)</managingEditor>
+    <webMaster>me@mmartinov.com (Martin Martinov)</webMaster>
+    <lastBuildDate>Mon, 23 May 2016 19:52:11 +0300</lastBuildDate>
+    <atom:link href="https://martinov.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Creating beautiful software since a long, long time ago</title>
+      <link>https://martinov.github.io/page/work/</link>
+      <pubDate>Mon, 23 May 2016 19:52:11 +0300</pubDate>
+      <author>me@mmartinov.com (Martin Martinov)</author>
+      <guid>https://martinov.github.io/page/work/</guid>
+      <description>&lt;p&gt;hello&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello, my name is Martin</title>
+      <link>https://martinov.github.io/page/about/</link>
+      <pubDate>Fri, 12 Feb 2016 12:46:30 +0200</pubDate>
+      <author>me@mmartinov.com (Martin Martinov)</author>
+      <guid>https://martinov.github.io/page/about/</guid>
+      <description>&lt;p&gt;My &lt;a href=&#34;#&#34;&gt;first attempts at climbing&lt;/a&gt; were probably around 2001. Since then I&amp;rsquo;ve learned a lot, traveled around the world, met awesome people and made many new friends.&lt;/p&gt;
+
+&lt;p&gt;In the end of March 2015 I had a nasty accident - I&amp;rsquo;ve hit the deck falling from 10 meters and fractured few vertebrae. Fortunately, a great deal of luck was involved and I was able to recover very quickly. Month and a half later I&amp;rsquo;ve spent a week on the rocks of North Wales while taking part in the &lt;a href=&#34;https://www.flickr.com/photos/mmartinov/sets/72157652624400499&#34;&gt;BMC International Summer Meet&lt;/a&gt; which was an absolutely rad experience.&lt;/p&gt;
+
+&lt;p&gt;Climbing is what makes me feel alive, it fuels my desire to learn and grow.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;If this all sounds interesting but you&amp;rsquo;re here to learn about my software development services, you probably want to have a look at my &lt;a href=&#34;https://martinov.github.io/page/work&#34;&gt;professional resume&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
