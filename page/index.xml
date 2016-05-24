@@ -12,12 +12,22 @@
     <atom:link href="https://martinov.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Creating beautiful software since a long, long time ago</title>
+      <title>Hello, my name is Martin</title>
       <link>https://martinov.github.io/page/work/</link>
       <pubDate>Mon, 23 May 2016 19:52:11 +0300</pubDate>
       <author>me@mmartinov.com (Martin Martinov)</author>
       <guid>https://martinov.github.io/page/work/</guid>
-      <description>&lt;p&gt;hello&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;I was born in &lt;a href=&#34;http://pleven.bg/en/&#34;&gt;Pleven&lt;/a&gt;, a town in the central north region of my beautiful country - &lt;a href=&#34;http://en.wikipedia.org/wiki/Bulgaria&#34;&gt;Bulgaria&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more than a decade I used to work in the capital of the country - Sofia. The last couple of years I did some work for foreign companies in Copenhagen, Hamburg and Vienna, including consulting the International Atomic Energy Agency (IAEA). All of this led to a decision to try what would it be to work full-time in another country, and since late December 2013 I moved to London, UK.&lt;/p&gt;
+
+&lt;p&gt;I am an IT specialist - a web developer and open source software enthusiast. My expertise lies with LAMP setups (Linux/Apache/mySQL/PHP). I am capable of administering a variety of Linux distributions, &lt;a href=&#34;https://debian.org&#34;&gt;Debian&lt;/a&gt; and &lt;a href=&#34;http://www.gentoo.org&#34;&gt;Gentoo&lt;/a&gt; being my choice most of the time.&lt;/p&gt;
+
+&lt;p&gt;My primary skills are as a &lt;a href=&#34;https://php.net&#34;&gt;PHP&lt;/a&gt; developer, I possess considerable knowledge of JavaScript, HTML and database design &amp;amp; management. I&amp;rsquo;ve been working with PHP &amp;amp; mySQL since 2003 (12+ years of commercial experience). In that time I&amp;rsquo;ve been involved with the development of a few custom CRM systems and countless web sites and applications. For some of these I&amp;rsquo;ve used frameworks like CodeIgniter and Symfony, and for others I&amp;rsquo;ve build my own code base from scratch.&lt;/p&gt;
+
+&lt;p&gt;In the last 7 years I&amp;rsquo;ve been focusing mainly on &lt;a href=&#34;https://drupal.org&#34;&gt;Drupal&lt;/a&gt; projects. Traditionally my role has been developing custom modules, extending contributed modules and helping the team by solving challenging technical problems. Currently my work on Drupal projects consists mostly of writing custom modules communicating with different 3rd party systems via SOAP or REST APIs and migrating data from various legacy databases such as mySQL/MariaDB or MS SQL Server. I have also contributed some modules (&lt;a href=&#34;https://drupal.org/project/webform_term_opts&#34;&gt;webform_term_opts&lt;/a&gt; as an example, with more than 5K reported installs) and patches to other modules. My &lt;a href=&#34;https://www.drupal.org/u/mmartinov&#34;&gt;Drupal.org profile&lt;/a&gt; has more related information.&lt;/p&gt;
+
+&lt;p&gt;Some other things that move me are traveling, alpine/rock climbing, skiing, hiking, skydiving, flying and photography.&lt;/p&gt;
 </description>
     </item>
     
