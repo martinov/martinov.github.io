@@ -6,8 +6,6 @@
     <description>Recent content in Pages on MMartinov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <managingEditor>me@mmartinov.com (Martin Martinov)</managingEditor>
-    <webMaster>me@mmartinov.com (Martin Martinov)</webMaster>
     <lastBuildDate>Mon, 23 May 2016 19:52:11 +0300</lastBuildDate>
     <atom:link href="https://martinov.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +13,7 @@
       <title>Hello, my name is Martin</title>
       <link>https://martinov.github.io/page/work/</link>
       <pubDate>Mon, 23 May 2016 19:52:11 +0300</pubDate>
-      <author>me@mmartinov.com (Martin Martinov)</author>
+      
       <guid>https://martinov.github.io/page/work/</guid>
       <description>&lt;p&gt;I was born in &lt;a href=&#34;http://pleven.bg/en/&#34;&gt;Pleven&lt;/a&gt;, a town in the central north region of my beautiful country - &lt;a href=&#34;http://en.wikipedia.org/wiki/Bulgaria&#34;&gt;Bulgaria&lt;/a&gt;.&lt;/p&gt;
 
@@ -35,7 +33,7 @@
       <title>Hello, my name is Martin</title>
       <link>https://martinov.github.io/page/about/</link>
       <pubDate>Fri, 12 Feb 2016 12:46:30 +0200</pubDate>
-      <author>me@mmartinov.com (Martin Martinov)</author>
+      
       <guid>https://martinov.github.io/page/about/</guid>
       <description>&lt;p&gt;My &lt;a href=&#34;https://martinov.github.io/post/2015-03-16-climbing-first-attempts/&#34;&gt;first attempts at climbing&lt;/a&gt; were probably around 2001. Since then I&amp;rsquo;ve learned a lot, traveled around the world, met awesome people and made many new friends.&lt;/p&gt;
 
