@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on MMartinov</title>
-    <link>https://martinov.github.io/page/</link>
+    <link>https://mmartinov.com/page/</link>
     <description>Recent content in Pages on MMartinov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 23 May 2016 19:52:11 +0300</lastBuildDate>
-    <atom:link href="https://martinov.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mmartinov.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello, my name is Martin</title>
-      <link>https://martinov.github.io/page/work/</link>
+      <link>https://mmartinov.com/page/work/</link>
       <pubDate>Mon, 23 May 2016 19:52:11 +0300</pubDate>
       
-      <guid>https://martinov.github.io/page/work/</guid>
+      <guid>https://mmartinov.com/page/work/</guid>
       <description>&lt;p&gt;I was born in &lt;a href=&#34;http://pleven.bg/en/&#34;&gt;Pleven&lt;/a&gt;, a town in the central north region of my beautiful country - &lt;a href=&#34;http://en.wikipedia.org/wiki/Bulgaria&#34;&gt;Bulgaria&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;For more than a decade I used to work in the capital of the country - Sofia. The last couple of years I did some work for foreign companies in Copenhagen, Hamburg and Vienna, including consulting the International Atomic Energy Agency (IAEA). All of this led to a decision to try what would it be to work full-time in another country, and since late December 2013 I moved to London, UK.&lt;/p&gt;
@@ -31,11 +31,11 @@
     
     <item>
       <title>Hello, my name is Martin</title>
-      <link>https://martinov.github.io/page/about/</link>
+      <link>https://mmartinov.com/page/about/</link>
       <pubDate>Fri, 12 Feb 2016 12:46:30 +0200</pubDate>
       
-      <guid>https://martinov.github.io/page/about/</guid>
-      <description>&lt;p&gt;My &lt;a href=&#34;https://martinov.github.io/post/2015-03-16-climbing-first-attempts/&#34;&gt;first attempts at climbing&lt;/a&gt; were probably around 2001. Since then I&amp;rsquo;ve learned a lot, traveled around the world, met awesome people and made many new friends.&lt;/p&gt;
+      <guid>https://mmartinov.com/page/about/</guid>
+      <description>&lt;p&gt;My &lt;a href=&#34;https://mmartinov.com/post/2015-03-16-climbing-first-attempts/&#34;&gt;first attempts at climbing&lt;/a&gt; were probably around 2001. Since then I&amp;rsquo;ve learned a lot, traveled around the world, met awesome people and made many new friends.&lt;/p&gt;
 
 &lt;p&gt;In the end of March 2015 I had a nasty accident - I&amp;rsquo;ve hit the deck falling from 10 meters and fractured few vertebrae. Fortunately, a great deal of luck was involved and I was able to recover very quickly. Month and a half later I&amp;rsquo;ve spent a week on the rocks of North Wales while taking part in the &lt;a href=&#34;https://www.flickr.com/photos/mmartinov/sets/72157652624400499&#34;&gt;BMC International Summer Meet&lt;/a&gt; which was an absolutely rad experience.&lt;/p&gt;
 
@@ -43,7 +43,7 @@
 
 &lt;hr&gt;
 
-&lt;p&gt;If this all sounds interesting but you&amp;rsquo;re here to learn about my software development services, you probably want to have a look at my &lt;a href=&#34;https://martinov.github.io/page/work&#34;&gt;professional resume&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If this all sounds interesting but you&amp;rsquo;re here to learn about my software development services, you probably want to have a look at my &lt;a href=&#34;https://mmartinov.com/page/work&#34;&gt;professional resume&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
